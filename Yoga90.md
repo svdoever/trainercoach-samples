@@ -3,9 +3,8 @@
 ## ABOUT
 
 ### SETUP
-- Evolation hot yoga 90 minutes asana essentials
-- This material is used as personal test material in developing the Trainer-Coach app, and is made available for the Evolation teacher training that is currently running in Amsterdam to help the trainees study the Evolation yoga asanas
-- This material is copyright 2015, Evolation
+- Welcome to the Bikram hot yoga 90 minutes
+- Good luck with preparing your classes
 - Namaste
 
 ## WELCOME
