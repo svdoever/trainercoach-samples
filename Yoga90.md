@@ -1,4 +1,4 @@
-# Evolation 90
+# Bikram 90
 
 ## ABOUT
 
@@ -27,8 +27,7 @@
 - Use **continuous energy**, in correct form, while paying attention to your breathing in every posture
 - Be completely **still in-between** the **postures**
 - Most importantly we **balance** conscious breathing with body awareness and focused eyes
-- **No bouncing** in and out of the pose
-- **Find stillness** at the end of the pose in your maximum expression
+- **No bouncing** in and out of the pose, **find stillness** at the end of the pose in your maximum expression
 - Whether you do 1% depth, or 99% depth, you get **100% benefit**. As long as you try the right way and you stay focused and don’t give up
 - Before you even start, **make up your mind** to just keep going
 - The **postures** are not the goal. They are a tool to create **connection** between **body** and **mind**
@@ -49,7 +48,7 @@
 - **Inhale** by the **nose** and **exhale** by the **mouth**
 - Inhales and exhales should be controlled with the **muscles** in the **throat**
 - **Breathe** as much as possible, as **long** as possible, as **slow** as possible, as **deep** as possible
-- [As a **beginner**, **first watch** a few breaths and join in once you understand]
+- As a **beginner**, **first watch** a few breaths and join in once you understand
 - Put your **feet together**, toes and heels touching each other
 - All ten **fingers interlaced** under the chin, full webbing to webbing grip
 - Touch your **knuckles** to the **chin**, **thumbs** touching the **throat**
@@ -57,16 +56,16 @@
 - Once the first breath starts, **elbows never drop** below shoulder height
 - **Swallow** a couple of times
 - **Look** in the **mirror**
-- **Concentrate. Meditate**
+- **Concentrate, meditate**
 
 ### TIMEPOINTS
 
 - [Begin, inhale](6:beep)
 - [Exhale](6:beep)
-- [Inhale nose, full longs](6:beep)
-- [Exhale mouth, loud ahhh, empty lungs](6:beep)
+- [Inhale through nose, full longs](6:beep)
+- [Exhale through mouth, loud ahhh sound, empty lungs](6:beep)
 - [Inhale stretch elbows wide and up, eyes mirror](6:beep)
-- [Exhale, head back, knocles against chin](6:beep)
+- [Exhale, head back, knuckles against the chin](6:beep)
 - [Inhale](6:beep)
 - [Exhale](6:beep)
 - [Inhale](6:beep)
@@ -83,33 +82,58 @@
 - [Exhale](6:beep)
 - [Inhale](6:beep)
 - [Exhale](6:beep)
+- [Inhale, two more breaths](6:beep)
+- [Exhale](6:beep)
+- [Inhale, make it the deepest inhale of the day](6:beep)
+- [Full Exhale, empty your lungs completely](6:beep)
+- [Second set, inhale](6:beep)
+- [Exhale](6:beep)
+- [Inhale through nose, full longs](6:beep)
+- [Exhale through mouth, loud ahhh sound, empty lungs](6:beep)
+- [Inhale stretch elbows wide and up, eyes mirror](6:beep)
+- [Exhale, head back, knuckles against the chin](6:beep)
 - [Inhale](6:beep)
 - [Exhale](6:beep)
 - [Inhale](6:beep)
 - [Exhale](6:beep)
-
+- [Inhale](6:beep)
+- [Exhale](6:beep)
+- [Inhale](6:beep)
+- [Exhale](6:beep)
+- [Inhale](6:beep)
+- [Exhale](6:beep)
+- [Inhale](6:beep)
+- [Exhale](6:beep)
+- [Inhale](6:beep)
+- [Exhale](6:beep)
+- [Inhale](6:beep)
+- [Exhale](6:beep)
+- [Inhale, two more breaths](6:beep)
+- [Exhale](6:beep)
+- [Inhale, make it the deepest inhale of the day](6:beep)
+- [Full exhale, empty your lungs completely](6:beep)
 ### TIMEDETAILS
 
 - -- INHALES --
-- Leg muscles strong, kneecaps lift up
-- Hips a little bit forward, hip muscles tight, contracted
-- Suck your stomach in. Rib cage visible in the mirror
-- Stomach in, depression of the abdominal wall, contraction of the abdominal muscles
+- **Leg** muscles **strong,** **kneecaps** lift **up**
+- **Hips** a little bit **forward**, hip **muscles tight**, contracted
+- **Suck** your **stomach in**. **Rib cage visible** in the mirror
+- **Stomach in**, **depression** of the abdominal wall, **contraction** of the abdominal muscles
 - Open your ribcage, open your lungs
 - Open up your chest and your ribcage, stretching the intercostal muscles between the ribs
 - Expand your lungs to their maximum capacity
 - Spine straight, stretch up out of your waist toward the ceiling
-- STRETCH your elbows more up toward the ceiling. Warm up your shoulders/arms/hands
-- Look in the mirror. Eyes always open to keep you from getting dizzy
+- Stretch your elbows more up toward the ceiling, warm up your shoulders/arms/hands
+- Look in the mirror, eyes always open to keep you from getting dizzy
 - Take six seconds to bring your head down
 - Keep the throat engaged, the face and mouth relaxed
-- Every breath, deeper, fuller, longer, more air in your lungs
+- Every breath deeper, fuller, longer, more air in your lungs
 - Each time, especially towards the end, try to inhale a little bit more than last time, more and more and more
 - -- EXHALES --
 - Keep more of your bodyweight in the heels
 - Legs straight, don’t bend your knees
 - Stomach IN, chest UP. Don’t collapse
-- No backward bending. Spine straight
+- No backward bending, spine straight
 - Shoulders down and wide, away from the ears
 - Palms, wrists, forearms, and elbows touch
 - Elbows forward more, away from your chest as far as they go, elbows towards the ceiling
@@ -154,6 +178,14 @@
 - Arms and head back. Chin up. Concentrate one point in the mirror
 - Inhale breathing full lungs. Stretch up out of the waist, touch the ceiling
 - Slowly push your hips to the left, creating a deep stretch on the left side of the body
+
+### TIMEPOINTS
+
+- [Begin](45:beep)
+- [Other side](35:beep)
+
+### TIMEDETAILS
+
 - Now stretch your upper body to the right, without bending your elbows or knees
 - Keep everything parallel to the mirror
 - Hips more forward, upper body back more, weight in the heels
@@ -180,6 +212,14 @@
 
 - Everybody moving together; give it all you have!
 - Take a deep breath, full lungs, stretch up to touch the ceiling, bring your head back as far as you can
+
+### TIMEPOINTS
+
+- [First set](20:beep)
+- [Second set](20:beep)
+
+### TIMEDETAILS
+
 - Look behind you. Arms back immediately, try to touch the wall behind you
 - Inhale, lift your chest up. Bend your spine backwards from coccyx to neck
 - Lower back, middle back, upper back, your total spine is backward bending
@@ -198,17 +238,25 @@
 
 ### SETUP
 
-- Suck your stomach in, bend your knees and come down with a straight spine, put your hands on the floor in front of you.
-- Bend your knees one by one and move your hips several times, right and left, right and left. 
-- Do a little dance. Shake your hips, shake your head, everything. 
-- Even squat a few times to open the hips and lower back. 
-- Let your head hang down to lengthen your spine, relax your neck muscles. 
+- Suck your stomach in, bend your knees and come down with a straight spine, put your hands on the floor in front of you
+- Bend your knees one by one and move your hips several times, right and left, right and left
+- Do a little dance. Shake your hips, shake your head, everything
+- Even squat a few times to open the hips and lower back
+- Let your head hang down to lengthen your spine, relax your neck muscles
 - Make sure your back is totally relaxed, nice and loose. Always be very mindful when forward bending
 - Slide your fingers down your calves and then underneath the heels, stepping on all five fingers of each hand
-- Pinky fingers touching each other, thumbs with the index fingers. 
+- Pinky fingers touching each other, thumbs with the index fingers
 - Point your fingers in the same direction as your toes
 - Forearms touching the calf muscles, throughout the posture
-- If you cannot grab your heels yet, hold on to the calves or sides of the feet. 
+- If you cannot grab your heels yet, hold on to the calves or sides of the feet
+
+### TIMEPOINTS
+
+- [First set](20:beep)
+- [Second set](20:beep)
+
+### TIMEDETAILS
+
 - Maintain the grip
 - Touch your stomach on the thighs, chest on the knees, and face on the legs below the knees. 
 - No gap anywhere, compact body
@@ -1054,11 +1102,29 @@
 
 - We began our practice today with stillness and we end with stillness
 - Please come seated with your legs crossed and spine straight. Sit in lotus if you are able (teacher demonstrate)
-- You can now close your eyes and bring your awareness to your breath. Let go of any tension in your body
-- You have worked very hard, every part of your body. So it is important to take the time to relax
-- This is the best time for your body, mind and breath to come together. Focus inward, concentrate on your breath
-- Be present and feel the healing energy pulsing through your body
-- (Teacher, lead through guided (breathing) meditation, 60 minute class: three to four minutes, 90 minute class: five to six minutes)
-- You can now turn around on your back and take a couple of more minutes in Savasana
-- Leave refreshed and reenergized. Thank you for joining us today and see you back soon!
+
+### TIMEPOINTS
+
+- [Begin (2 exhales per second)](30:beep)
+- [Ready - second set, even faster](10:beep)
+- [Begin (3 exhales per second)](30:beep)
+
+### TIMEDETAILS
+
+Demonstrate stomach in mouth out breathing
+- -- FIRST SET --
+- 2 exhales/sec
+- -- SECOND SET --
+- 3 exhales/sec
+- -- INHALES --
+
+### TEARDOWN
+
+- You can now **close your eyes** and bring your awareness to your breath. Let go of any tension in your body
+- You have **worked very hard**, every part of your body. So it is important to take the time to relax
+- This is the best time for your body, mind and breath to come together. **Focus inward**, concentrate on your breath
+- **Be present** and feel the healing energy pulsing through your body
+- (Teacher, lead through **guided** (breathing) **meditation**, 60 minute class: three to four minutes, 90 minute class: five to six minutes)
+- You can now **turn** around **on your back** and take a couple of more minutes in Savasana
+- **Leave refreshed and reenergized**. Thank you for joining us today and see you back soon!
 - Namaste
