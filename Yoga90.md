@@ -1124,7 +1124,7 @@
 
 - [Teacher, lead through **guided** (breathing) **meditation**](240:beep)
 
-# TEARDOWN
+### TEARDOWN
 
 - You can now **turn** around **on your back** and take a couple of more minutes in Savasana
 - **Leave refreshed and reenergized**. Thank you for joining us today and see you back soon!
