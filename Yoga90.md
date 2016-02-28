@@ -1110,7 +1110,7 @@
 
 ### TIMEDETAILS
 
-Demonstrate stomach in mouth out breathing
+- Demonstrate stomach in mouth out breathing
 - -- FIRST SET --
 - 2 exhales/sec
 - -- SECOND SET --
