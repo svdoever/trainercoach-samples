@@ -1090,17 +1090,6 @@
 - Abdominals relaxed
 - Swallow a couple of times
 - Begin please, follow me (60 times) (teacher, clap and breathe to set the pace)
-- Keep seated where you are
-- **-- ADDITIONAL INSTRUCTIONS --**
-- If you are having a hard time moving just your belly, you feel your body bouncing all over the place, then in the second set, gently press the tops of your toes downward into the floor to help you stay more steady and grounded
-- Your face and mouth should be relaxed
-
-## ENDING MEDITATION
-
-### SETUP
-
-- We began our practice today with stillness and we end with stillness
-- Please come seated with your legs crossed and spine straight. Sit in lotus if you are able (teacher demonstrate)
 
 ### TIMEPOINTS
 
@@ -1115,15 +1104,28 @@
 - 2 exhales/sec
 - -- SECOND SET --
 - 3 exhales/sec
-- -- INHALES --
+- **-- ADDITIONAL INSTRUCTIONS --**
+- Keep seated where you are
+- If you are having a hard time moving just your belly, you feel your body bouncing all over the place, then in the second set, gently press the tops of your toes downward into the floor to help you stay more steady and grounded
+- Your face and mouth should be relaxed
 
-### TEARDOWN
+## ENDING MEDITATION
 
+### SETUP
+
+- We began our practice today with stillness and we end with stillness
+- Please come seated with your legs crossed and spine straight. Sit in lotus if you are able (teacher demonstrate)
 - You can now **close your eyes** and bring your awareness to your breath. Let go of any tension in your body
 - You have **worked very hard**, every part of your body. So it is important to take the time to relax
 - This is the best time for your body, mind and breath to come together. **Focus inward**, concentrate on your breath
 - **Be present** and feel the healing energy pulsing through your body
-- (Teacher, lead through **guided** (breathing) **meditation**, 60 minute class: three to four minutes, 90 minute class: five to six minutes)
+
+### TIMEPOINTS
+
+- [Teacher, lead through **guided** (breathing) **meditation**](240:beep)
+
+# TEARDOWN
+
 - You can now **turn** around **on your back** and take a couple of more minutes in Savasana
 - **Leave refreshed and reenergized**. Thank you for joining us today and see you back soon!
 - Namaste
