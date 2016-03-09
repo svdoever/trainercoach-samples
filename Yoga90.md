@@ -627,16 +627,29 @@
 - Stretch your right hand down and put your fingertips between the big and second toe. Palm facing the mirror
 - Don’t touch the floor, no pressure/weight with the fingertips against the floor
 - Look up towards the ceiling. Touch your chin to your left shoulder, keeping the top of your head pointing the same direction as your right knee
+
+### TIMEPOINTS
+
+- [20 seconds pose - left arm up](20:beep)
+- [Change - other side](20:beep)
+- [20 seconds pose - right arm up](20:beep)
+- [Change - feed together](20:beep)
+- [20 seconds pose - left arm up](20:beep)
+- [Change - other side](20:beep)
+- [20 seconds pose - right arm up](20:beep)
+- 
+### TIMEDETAILS
+
 - Take a deep breath, continuously stretch your left arm up to the ceiling, try to touch the ceiling
 - Stretch your right arm down, stretch your left arm up. Both arms, shoulders, scapula, deltoids are stretching each other up and down in opposite directions.
 - There should be a big gap, a triangle, between your chest and the right thigh
 - Both arms should be in a straight vertical line
-- Hips down. Push your left hip down and forward towards the mirror. At the same time, push your right knee back with your right elbow
+- Hips down. Push your left hip down and forward towards the mirror
+- At the same time, push your right knee back with your right elbow
 - Turn, twist your upper body back, to create a spine twist, opening up your chest more toward the ceiling
 - Touch your toes
 - Keep your left leg straight and your left foot flat on the floor
 - Inhale breathing, come up and stop in the middle. Turn your right foot back to the centre. Keep your arms up and strong
-- Other side
 - **-- ADDITIONAL INSTRUCTIONS --**
 - As a beginner you can put your elbow on your knee
 - Every posture up to this point has been a preparation to do Triangle Pose
@@ -653,7 +666,21 @@
 - Two heels in one line, back foot in a 45° degree angle, heel flat on the floor
 - Front foot points straight forward, back leg always straight
 - Take a deep breath. Exhale breathing and go down, arms and head together. Bring your chin to your chest, look at your stomach, suck it in
-- Touch your forehead to your knee. If you can’t touch your forehead to the knee yet, bend your right knee a little bit, but try to touch your forehead to the knee
+
+### TIMEPOINTS
+
+- [20 seconds pose - turned to the right](20:beep)
+- [Inhale breathing, come up, arms and head together, hips in one line. Change - other side](20:beep)
+- [20 seconds pose - turned to the left](20:beep)
+- [Inhale breathing, come up, arms and head together, hips in one line. Change - feed together - setup for second set](20:beep)
+- [20 seconds pose - turned to the right](20:beep)
+- [Inhale breathing, come up, arms and head together, hips in one line. Change - other side](20:beep)
+- [20 seconds pose - turned to the left](20:beep)
+- 
+### TIMEDETAILS
+
+- Touch your forehead to your knee
+- If you can’t touch your forehead to the knee yet, bend your right knee a little bit, but try to touch your forehead to the knee
 - Stretch your hands forward, beyond your toes. Keep your elbows straight, wrists straight, cross your thumbs
 - Push your fingertips against the floor for balance. Wrists straight. As a beginner you can open your hands
 - Exhale breathing, suck your stomach in, throat choked, eyes open, very little breathing. This is a compression pose
@@ -668,19 +695,65 @@
 - Opening the back of the spine, also stimulating the kidneys and adrenal glands
 - Very stimulating for the whole endocrine system
 
-## **TREE** POSE – TADASANA AND **TOE STAND** – PADANGUSTASANA
+## **TREE** POSE – TADASANA
 
 ### SETUP
 
-- (skip toe stand in 60 min class, combine with tree pose in 90 min class)
 - Step back to the centre of your mat. Feet together. Focus on one point in the mirror
-- Grab your right foot from underneath with your left hand. Lift your right foot all the way up, as high as
-- possible. Keep the sole of your foot facing the ceiling
-- Be very careful with your knee. Slowly, gently, let your right knee come down. Push your hips forward
-- towards the mirror and gently bring your right knee back. Try to get both knees in one line from the side, to open your pelvis
-- Upper body back. Stretch your spine up towards the ceiling. Try to touch the crown of your head to the ceiling
-- Suck your stomach in. Two hips in one line, two shoulders in one line (same distance to the mirror, same distance to the floor)
-- Bring your right hand up to the centre of your chest. If you can balance here, bring your left hand up, palms together in Namaskar
+- Grab your right foot from underneath with your left hand
+- Lift your right foot all the way up, as high as possible
+- Keep the sole of your foot facing the ceiling
+- Be very careful with your knee. Slowly, gently, let your right knee come down
+- Push your hips forward towards the mirror and gently bring your right knee back
+- Try to get both knees in one line from the side, to open your pelvis
+- Upper body back. Stretch your spine up towards the ceiling
+- Try to touch the crown of your head to the ceiling
+- Suck your stomach in
+- Two hips in one line, two shoulders in one line (same distance to the mirror, same distance to the floor)
+- Bring your right hand up to the centre of your chest
+
+### TIMEPOINTS
+
+- [20 seconds pose - right foot](20:beep)
+- [Change - other side - grab your left foot - setup](20:beep)
+- [20 seconds pose - left foot](20:beep)
+
+### TIMEDETAILS
+
+- If you can balance here, bring your left hand up, palms together in Namaskar
+- If your foot slips, continue to hold your foot with your left hand
+- No extra sway in the lower back
+- Suck your low belly in and reach your tailbone more toward the floor
+- Left leg straight, thigh contracted
+- Spine straight, stomach in
+- Focus on one point, eyes open, conscious breathing. Stay there. Be completely still
+
+## **TOE STAND** – PADANGUSTASANA
+
+### SETUP
+
+- Step back to the centre of your mat. Feet together. Focus on one point in the mirror
+- Grab your right foot from underneath with your left hand
+- Lift your right foot all the way up, as high as possible
+- Keep the sole of your foot facing the ceiling
+- Be very careful with your knee. Slowly, gently, let your right knee come down
+- Push your hips forward towards the mirror and gently bring your right knee back
+- Try to get both knees in one line from the side, to open your pelvis
+- Upper body back. Stretch your spine up towards the ceiling
+- Try to touch the crown of your head to the ceiling
+- Suck your stomach in
+- Two hips in one line, two shoulders in one line (same distance to the mirror, same distance to the floor)
+- Bring your right hand up to the centre of your chest
+
+### TIMEPOINTS
+
+- [20 seconds pose - right foot](20:beep)
+- [Change - other side - grab your left foot - setup](20:beep)
+- [20 seconds pose - left foot](20:beep)
+
+### TIMEDETAILS
+- 
+- If you can balance here, bring your left hand up, palms together in Namaskar
 - If your foot slips, continue to hold your foot with your left hand
 - No extra sway in the lower back. Suck your low belly in and reach your tailbone more toward the floor
 - Left leg straight, thigh contracted. Spine straight, stomach in
@@ -702,7 +775,7 @@
 - Focus on one point, eyes open, conscious breathing. Stay there. Be completely still
 - Change, come up the opposite way you went down
 - **-- ADDITIONAL INSTRUCTIONS --**
-- Keep your heel in line with the center of your body (toe stand)
+- Keep your heel in line with the center of your body
 
 ## **DEAD BODY** POSE – SAVASANA
 
@@ -712,9 +785,16 @@
 - Relax completely
 - Heels together, feet fall open
 - Arms by your side, palms facing up
-- Head straight, keep your eyes open. Breathe normally, conscious breathing. Be completely still
+- Head straight, keep your eyes open. Breathe normally, conscious breathing
+- Be completely still
+
+### TIMEPOINTS
+
+- [120 seconds](120:beep)
+
+### TIMEDETAILS
+
 - **-- ADDITIONAL INSTRUCTIONS --**
-- Fundamentals of Hatha Yoga with Evolation:
 - Moving with right intention into the poses using correct form and following your breath
 - Holding the posture at maximum energy in correct form while breathing consciously and in a relative place of stillness
 - Releasing the posture in reverse of the way you went into it with grace and gratitude
