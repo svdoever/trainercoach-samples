@@ -1273,7 +1273,7 @@
 
 ### SETUP
 
-- We began our practice today with stillness and we end with stillness
+- We began our practice today with stillness and we end with stillness 
 - Please come seated with your legs crossed and spine straight. Sit in lotus if you are able (teacher demonstrate)
 - You can now **close your eyes** and bring your awareness to your breath. Let go of any tension in your body
 - You have **worked very hard**, every part of your body. So it is important to take the time to relax
