@@ -233,7 +233,7 @@
 - Look back, eyes look towards the floor; your body follows your eyes
 - Backward bending is the most healing motion for the spine
 
-## **HANDS TO FEET** POSE
+## **HANDS TO FEET** POSE - PADAHASTASANA
 
 ### SETUP
 
@@ -251,7 +251,7 @@
 
 ### TIMEPOINTS
 
-- [First set](20:beep)
+- [First set](30:beep)
 - [Second set](20:beep)
 
 ### TIMEDETAILS
@@ -283,50 +283,72 @@
 
 - Step your right foot to the right, approximately six inches apart. Hip-width between your toes and heels
 - Heels invisible behind the toes. Don’t change your feet throughout the entire posture
-- Inhale, arms up parallel to the floor. Keep your five fingers together, touching each other. 
+- Inhale, arms up parallel to the floor. Keep your five fingers together, touching each other
 - Arms straight, elbows locked, triceps muscles nice and tight, contracted. Strong arms, no tension in the shoulders
-- Shoulders down, chest up. 
+- Shoulders down, chest up
 - Stretch your arms forward towards your armpits in the mirror
-- Take a deep breath. Exhale breathing, suck your stomach in and hold it. 
-- Sit down until your hips are chair-height. 
-- Feet flat, 100 percent body weight in the heels. Keep your toes on the floor
-- Lift your chest up and bend your total spine backwards 
+- Take a deep breath. Exhale breathing, suck your stomach in and hold it
+- Sit down until your hips are chair-height
+
+### TIMEPOINTS
+
+- [10 Seconds pose](10:beep)
+
+### TIMEDETAILS
+
+- Feet flat, 100 percent body weight in the heels
+- Keep your toes on the floor
+- Lift your chest up and bend your total spine backwards
 - Bring your upper body back
-- Suck your stomach in, compress the abdominal wall, contract the abdominal muscles. 
+- Suck your stomach in, compress the abdominal wall, contract the abdominal muscles
 - Try to make your rib cage visible in the mirror
 - Open your knees, keep hip-distance between your toes, heels, knees and fingertips
-- Chest up, chin up. 
+- Chest up, chin up
 - Shoulders relaxed, elbows locked, arms stretching forward towards the mirror
 - Lean back, chest up
-- Suck your stomach in more, sit down more. 
+- Suck your stomach in more, sit down more
 - Upper body back more at the end
-- Inhale breathing and come up
-- Keep your arms up there
 - **-- ADDITIONAL INSTRUCTIONS --**
 - Feet parallel, looks like the number 11
 - You are trying to fall down backwards
 - Shoulders down, Chest up
+
+### TEARDOWN
+
+- Inhale breathing and come up
+- Keep your arms up there
 
 ## **AWKWARD** POSE - **2** - UTKATASANA
 
 ### SETUP
 
 - Complete concentration, focus one point in the mirror
-- Stand up on your toes maximum. 
+- Stand up on your toes maximum
 - Stretch your spine, chest, head, whole upper body up towards the ceiling
 - Keep stretching your spine up, suck your stomach in, and sit down, until your hips are chair-height
-- Thighs parallel to the floor, hips same level as your knees. 
+
+### TIMEPOINTS
+
+- [10 seconds pose](10:beep)
+
+### TIMEDETAILS
+
+- Thighs parallel to the floor, hips same level as your knees
 - Hips should not go down below the chair, you are sitting on the chair
 - Bring your knees up, chest up, upper body back, spine straight
-- Try to touch your shoulders to the wall behind you. 
+- Try to touch your shoulders to the wall behind you
 - Shoulders relaxed, elbows locked, arms stretching forward towards the mirror
 - Come up higher on your toes, knees up towards the ceiling 
 - The higher you get on your toes, the easier you can balance
-- Inhale breathing and come up, spine straight, keep your arms up
 - **-- ADDITIONAL INSTRUCTIONS --**
 - Imagine you are being pulled up towards the ceiling
 - Continuously stretch your spine up
 - The more contracted your arms are, the lighter they feel
+
+### TEARDOWN
+
+- Inhale breathing and come up, spine straight
+- Keep your arms up
 
 ## **AWKWARD** POSE - **3** - UTKATASANA
 
@@ -335,19 +357,30 @@
 - Come up on your toes a little bit and bring your knees together
 - Take deep breath
 - Exhale breathing, suck your stomach in, spine straight
+
+### TIMEPOINTS
+
+- [10 seconds pose](10:beep)
+ 
+### TIMEDETAILS
+
 - Sit down, as slow as possible, at least 10 counts
 - All the way down, like you’re sliding down against the wall, until there is half inch gap between your hips and your heels
 - Continuously stretch your spine up towards the ceiling
 - Upper body back, spine straight 
 - Keep your knees together and forward towards the mirror
-- Hips a little bit higher than your knees. 
+- Hips a little bit higher than your knees
 - Thighs parallel to the floor, arms parallel to your thighs, spine perfectly straight
 - Shoulders relaxed, triceps contracted, arms stretching forward towards the mirror
 - Take a deep breath, spine straight, stomach in, slowly stretch up, upper body back
-- Keep your knees together the whole way up
-- Feet back together, arms down by your side. Relax, be completely still
 - **-- ADDITIONAL INSTRUCTIONS --**
 - You are warming up the lower body for class
+
+### TEARDOWN
+
+- Keep your knees together the whole way up
+- Feet back together, arms down by your side
+- Relax, be completely still
 
 ## **EAGLE** POSE - GARURASANA
 
@@ -359,14 +392,23 @@
 - Cross your arms at your elbows and at your wrists
 - Bring your hands in front of your face, palms together, thumbs towards your face, little fingers towards the mirror
 - Pull your elbows down towards the floor, until your fingertips come below your nose. This will help to open up your shoulders
-- Take a deep breath. Stomach in
+- Take a deep breath
+- Stomach in
 - Exhale and sit all the way down, upper body back
+
+### TIMEPOINTS
+
+- [20 seconds pose](20:beep)
+- [Inhale breathing, come up](10:beep)
+- [Other side, left under right](20:beep)
+
+### TIMEDETAILS
+
 - Stay down there
-- Lift your right leg up and bring it over your left leg, as high as possible. The higher you get your leg on
-- the thigh, the more room you create to twist your legs
-- Twist your legs. 
-- Put your right foot behind your
-- left calf muscle. 
+- Lift your right leg up and bring it over your left leg, as high as possible
+- The higher you get your leg on the thigh, the more room you create to twist your legs
+- Twist your legs
+- Put your right foot behind your left calf muscle
 - Sit down more
 - Slide your foot down towards the ankle
 - No gap between the ankle and the calf muscle, no gap between the knees
@@ -376,18 +418,17 @@
 - Put more body weight in the left heel
 - If your foot is coming out, sit down more
 - If you’re losing the balance, upper body back more
-- Suck your stomach in. Sit down more
+- Suck your stomach in
+- Sit down more
 - Pull your elbows down more
 - Upper body back more at the end
-- Inhale breathing, come up
-- Other side
 - **-- ADDITIONAL INSTRUCTIONS --**
 - If you are unable to bring your palms together, interlace your fingers, or hold on to your wrists
 - If your shoulders are still really tight, hold on to your shoulders
 - Try to get your wrists straight
 - All toes are visible in the mirror
 - The lower you get your hips, the more you can twist your legs, the more compression you create in your joints, the more benefits you get out of the pose
-- Open up 14 of the largest joints in the body. Scapulae, shoulders, elbows, wrists, hips, knees and - ankles
+- Open up 14 of the largest joints in the body. Scapulae, shoulders, elbows, wrists, hips, knees and ankles
 - This posture is very good for the endocrine system
 
 ## STANDING **HEAD TO KNEE** POSE – DANDAYAMANA - JANUSIRASANA
@@ -398,68 +439,89 @@
 - Shift your weight to your left leg
 - Spread your left toes and get equal amounts of weight distributed throughout the foot
 - Interlace your 10 fingers and pick up your right foot in front of you, at the ball of the foot
+
+ 
+### TIMEPOINTS
+
+- [60 seconds pose](60:beep)
+- [Change, come up reversed way you went in: head up, arms straight, leg down, feet together](10:beep)
+- [Switch your weight to the right leg, interlace fingers, pick up your left foot in front of you](30:beep)
+
+### TIMEDETAILS
+
 - Hold a nice tight grip, thumbs with the fingers
-- Look in the mirror. From start to finish concentrate on your left knee in the mirror
+- Look in the mirror
+- From start to finish concentrate on knee f your standing leg in the mirror
 - Make sure the leg is straight and engaged from start to finish
-- Your left leg should be strong, solid, one piece, unbroken, every muscle contracted
-- Bring more weight forward towards the toes of your left foot to distribute the weight all over the left foot, equally
+- Your standing leg should be strong, solid, one piece, unbroken, every muscle contracted
+- Bring more weight forward towards the toes of your standing foot to distribute the weight all over the foot, equally
 - Don’t bring it to the side
-- Your thigh muscles should be contracted, nice and tight. 
+- Your thigh muscles should be contracted, nice and tight
 - Standing leg solid
 - Stomach in, to create more rounding in your back
-- Straight left leg. The whole kneecap lifts up
-- If your standing leg is straight, then inhale breathing, slowly, gently right leg lift up and stretch forward towards the mirror, until the leg is exactly parallel to the floor
+- Straight left leg, the whole kneecap lifts up
+- If your standing leg is straight, then inhale breathing, slowly, gently stretching leg lift up and stretch forward towards the mirror, until the leg is exactly parallel to the floor
 - Heel same level as your hip
 - Arms straight, chest up
-- Left leg straight
-- Take a deep breath, continuously kick your right leg-heel forward towards the mirror, so you can turn your right foot in from the ankle towards the face, all five toes turning back towards your face
+- Standing leg straight
+- Take a deep breath, continuously kick your stretched leg-heel forward towards the mirror, so you can turn your foot in from the ankle towards the face, all five toes turning back towards your face
 - Kick your heel forward until both legs are straight
 - Flex your foot, to stretch your Achilles tendon, just above the heel
 - Flex all five toes towards your face
 - If your standing leg is bending, come back to the foundation
 - Solid strong leg, engage all around your knee
-- Kick your heel out, turn your toes in. 
-- Try to get both legs straight, right leg parallel
+- Kick your heel out, turn your toes in
+- Try to get both legs straight, stretching leg parallel
 - If both legs are straight and you can still balance there, then only, bend your elbows down towards the floor until your elbows touch the calf muscle
 - Don’t let the leg come down, keep kicking the heel forward
 - Kick from your hip all the way through your heel
 - Eventually your elbows should go down below the calf muscles
-- If you can still balance there, with both legs straight, slowly bring your chin to the chest, head down, look
-- at your stomach and touch your forehead to your knee. 
+- If you can still balance there, with both legs straight, slowly bring your chin to the chest, head down
+- Look at your stomach and touch your forehead to your knee
 - Balance there
 - Continuously keep kicking
-- Change, come up reversed way you went in: head up, arms straight, leg down
-- Feet together
 - **-- ADDITIONAL INSTRUCTIONS --**
 - The most important ingredients of this pose are focus, concentration, determination, patience and a very strong straight leg
 - You should feel a tremendous stretch underneath your legs 
 
-## STANDING **BOW PULLING** POSE – DANDAYAMANA - DHANURASANA
+## **STANDING BOW** PULLING POSE – DANDAYAMANA - DHANURASANA
 
 ### SETUP
 
 - Look forward, concentrate one point in the mirror
 - Bring your right hand out, palm facing up, elbow touching your body
 - Without turning or twisting your hand, keep your palm towards the ceiling, thumb towards the back wall, pick up your right foot behind you
-- Hold from the inside at the ankle. Five fingers together
-- Bring your left arm up in front of you. Shoulder close to the chin, head straight
-- Keep left leg straight throughout the posture. Bring your knees together to start
+- Hold from the inside at the ankle
+- Five fingers together
+- Bring your left arm up in front of you
+- Shoulder close to the chin, head straight
+- Keep standing leg straight throughout the posture
+- Bring your knees together to start
+
+### TIMEPOINTS
+
+- [60 seconds pose](60:beep)
+- [Other side. Bring your left hand out and pick up your left foot](10:beep)
+- [30 seconds pose](30:beep)
+
+### TIMEDETAILS
+
 - Inhale breathing, stretch up
-- Kick your right leg back and up towards the ceiling. At the same time, reach your left hand towards the mirror, try to touch the mirror
+- Kick your leg back and up towards the ceiling
+- At the same time, reach your hand towards the mirror, try to touch the mirror
 - Bring your body down from the lower spine, eventually your abdomen and chest are parallel to the floor
-- Continuously keep kicking your right leg up as hard as possible
+- Continuously keep kicking your leg up as hard as possible
 - Your foot should be coming out over the top of your head in the mirror
 - Kick back, so your right shoulder is behind your left shoulder, invisible in the mirror
-- Stretch your left fingertips towards the mirror, trying to touch the mirror. Try to keep your shoulder to your chin
+- Stretch your fingertips towards the mirror, trying to touch the mirror. Try to keep your shoulder to your chin
 - Your two shoulders should be in one line. Create a stretch in your right shoulder and chest
 - Kicking and stretching should be equal and simultaneous, 50/50
 - If you lose the balance you’re not kicking hard enough
 - If you fall out of the posture, take a breath and go right back in
 - The harder you kick, you can balance for ever
-- Body down more. Stretch forward more, try to touch the mirror
+- Body down more, stretch forward more, try to touch the mirror
 - Kick back more. Kick harder. Body down. Kick up. Stretch and stretch and stretch
 - Change. Come up
-- Other side
 - **-- ADDITIONAL INSTRUCTIONS --**
 - Make sure the right knee is hidden behind your body, not coming out to the side
 - There should be a twist in your middle and upper spine
@@ -477,6 +539,16 @@
 - Both legs absolutely straight. Left toes pointed. Arms and head together
 - Take a deep breath. Stretch up towards the ceiling. Suck your stomach in
 - Come down until your whole body, arms, head, leg, everything is parallel to the floor
+- 
+### TIMEPOINTS
+
+- [10 seconds pose](10:beep)
+- [Other side, repeat setup with other leg](20:beep)
+- [10 seconds pose](10:beep)
+
+### TIMEDETAILS
+
+
 - From the side your body looks like a T
 - Stretch your body forward, like you’re trying to touch the mirror
 - Get your left leg up, pointed toes, leg straight
@@ -501,9 +573,20 @@
 ### SETUP
 
 - Feet together. Arms over the head sideways
-- Right leg step to the right, four feet minimum. At the same time, arms down parallel to the floor
-- Heels in one line, feet slightly pigeon toed. Arms parallel to the floor
+- Right leg step to the right, four feet minimum
+- At the same time, arms down parallel to the floor
+- Heels in one line, feet slightly pigeon toed
+- Arms parallel to the floor
 - Take a deep breath. Exhale breathing, suck your stomach in and slowly bend your body down towards the floor
+ 
+### TIMEPOINTS
+
+- [40 seconds pose](40:beep)
+- [Inhale breathing, slowly come up. Right leg back to the left](20:beep)
+- [Second set, repeat setup](30:beep)
+
+### TIMEDETAILS
+
 - Keep your chin forward, looking in the mirror, flat back, spine straight, no bending the knees
 - Keep your hips over the heels, with more body weight in the toes
 - Grab your heels from the outside, five fingers together, thumbs with the index finger
@@ -519,7 +602,6 @@
 - Pull harder, keep pulling
 - Chin away from the chest. Roll forward
 - Touch your forehead to the floor
-- Inhale breathing, slowly come up. Right leg back to the left
 - **-- ADDITIONAL INSTRUCTIONS --**
 - If your forehead is easily touching the floor, bring your feet closer to each other, only as much as you
 - need, to touch your forehead more in the centre, between the feet
