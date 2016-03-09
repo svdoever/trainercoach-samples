@@ -750,7 +750,7 @@
 - [20 seconds pose - left foot](20:beep)
 
 ### TIMEDETAILS
-- 
+
 - If you can balance here, bring your left hand up, palms together in Namaskar
 - If your foot slips, continue to hold your foot with your left hand
 - No extra sway in the lower back. Suck your low belly in and reach your tailbone more toward the floor
