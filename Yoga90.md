@@ -635,7 +635,7 @@
 - [20 seconds pose - left arm up](20:beep)
 - [Change - other side](20:beep)
 - [20 seconds pose - right arm up](20:beep)
-- 
+
 ### TIMEDETAILS
 
 - Take a deep breath, continuously stretch your left arm up to the ceiling, try to touch the ceiling
