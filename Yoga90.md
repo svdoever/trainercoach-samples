@@ -539,7 +539,7 @@
 - Both legs absolutely straight. Left toes pointed. Arms and head together
 - Take a deep breath. Stretch up towards the ceiling. Suck your stomach in
 - Come down until your whole body, arms, head, leg, everything is parallel to the floor
-- 
+
 ### TIMEPOINTS
 
 - [10 seconds pose](10:beep)
@@ -547,7 +547,6 @@
 - [10 seconds pose](10:beep)
 
 ### TIMEDETAILS
-
 
 - From the side your body looks like a T
 - Stretch your body forward, like you’re trying to touch the mirror
@@ -676,7 +675,7 @@
 - [20 seconds pose - turned to the right](20:beep)
 - [Inhale breathing, come up, arms and head together, hips in one line. Change - other side](20:beep)
 - [20 seconds pose - turned to the left](20:beep)
-- 
+
 ### TIMEDETAILS
 
 - Touch your forehead to your knee
