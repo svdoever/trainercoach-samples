@@ -1,2 +1,2 @@
 # Menu
-- [Yoga 90](Yoga90.md)
+- [Bikram Yoga 90](BikramYoga90.md)
