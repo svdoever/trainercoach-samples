@@ -3,6 +3,7 @@
 ## ABOUT
 
 ### SETUP
+
 - Welcome to the Bikram hot yoga 90 minutes
 - Good luck with preparing your classes
 - Namaste
