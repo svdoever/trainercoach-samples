@@ -1,0 +1,247 @@
+
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type='text/xsl' href='RssPretty.xslt' version='1.0'?>
+<rss version="2.0">
+  <link rel="alternate" type="application/rss+xml" title="RSS FEED TITLE" href="RSS FEED URL" />
+  <channel>
+    <title>Microsoft At Home</title>
+    <link>http://www.microsoft.com/athome/default.aspx</link>
+    <description>By subscribing to the Really Simple Syndication (RSS) feed from the At Home RSS, you can have new headlines and article previews delivered in an RSS reader or aggregator.</description>
+    <language>en-us</language>
+    <ttl>1440</ttl>
+    <item>	
+      <pubDate>Fri, 29 Jul 2016</pubDate>
+      <title>Watch the Imagine Cup World Championship showdown live July 29 at 9 AM PDT or on-demand</title>
+      <description>The time has come. The field has been narrowed from thousands of young developers to the final three student teams. They’ve won their country’s national title. They’ve earned a trip to Microsoft headquarters. And they’ve each just won $50,000. Now it’s time for the ultimate honor. Who will be crowned the Imagine Cup champion? Watch and find out.</description>
+      <link>https://imagine.microsoft.com?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=Watch the Imagine Cup World Championship showdown live July 29 at 9 AM PDT or on-demand&amp;WT.rss_ev=a</link>
+	</item>
+	
+	<item>	
+      <pubDate>Mon, 25 Jul 2016</pubDate>
+      <title>$100 off select Dell XPS 13 PCs while supplies last</title>
+      <description>Get discounted pricing on select Dell XPS 13 laptops with 13.3" QHD+ touchscreens, Intel Core processors, and more. Supplies are limited, so start shopping now. (Offer valid until September 24, 2016, while supplies last. See site for full terms and conditions.)</description>
+      <link>https://www.microsoftstore.com/store/msusa/en_US/pdp/Dell-XPS-13-9350-Signature-Edition-Laptop/productID.326871500?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=$100 off select Dell XPS 13 PCs while supplies last&amp;WT.rss_ev=a</link>
+	</item>
+	<item>	
+      <pubDate>Mon, 25 Jul 2016</pubDate>
+      <title>Discover, achieve, and create with technology for school from the Microsoft Store</title>
+      <description>Students learn, create, and express themselves in diverse ways. We've got the technology to match your needs and ambitions. Experience what's possible at the Microsoft Store. Shop now.</description>
+      <link>https://www.microsoftstore.com/store/msusa/en_US/cat/Back-to-school-essentials/categoryID.67998200?icid=gm_bts_MSCOMlink?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=Discover, achieve, and create with technology for school from the Microsoft Store&amp;WT.rss_ev=a</link>
+	</item>
+	<item>	
+      <pubDate>Thu, 21 Jul 2016</pubDate>
+      <title>See how last year’s Imagine Cup winners are making a difference today</title>
+      <description>Meet previous winners of Microsoft's  global student developer technology competition, the Imagine Cup, and see how they are using their experiences to build apps, games, and solutions that impact the way we work, live, and play.</description>
+      <link>http://news.microsoft.com/features/last-years-imagine-cup-winners-look-to-launch-a-fashion-business-share-an-artistic-game-and-take-the-world-to-outer-space/?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=See how last year’s Imagine Cup winners are making a difference today&amp;WT.rss_ev=a</link>
+	</item>
+	<item>	
+      <pubDate>Wed, 13 Jul 2016</pubDate>
+      <title>The Next Rembrandt project will challenge your conceptions of art, creativity, and emotion</title>
+      <description>Can a programmer be considered an artist? See what you think after viewing an original painting created with an algorithm and data collected from portraits by the great Dutch master Rembrandt van Rijn. Look into the eyes and see what you feel. Learn more.</description>
+      <link>http://news.microsoft.com/europe/features/the-next-rembrandt-blurring-the-lines-between-art-technology-and-emotion-2?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=The Next Rembrandt project will challenge your conceptions of art, creativity, and emotion&amp;WT.rss_ev=a</link>
+	</item>	
+	<item>	
+      <pubDate>Tue, 12 Jul 2016</pubDate>
+      <title>Super one-day sale starts now at the Microsoft Store</title>
+      <description>Grab great deals on hot technology from Lumia phones to portable JBL speakers to PCs and more. Supplies are limited and special prices end in just hours, so start shopping now.</description>
+      <link>https://www.microsoftstore.com/store/msusa/en_US/cat/One-Day-Sale/categoryID.69403000?icid=Salepage_gm_ods_dglink?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=Super one-day sale starts now at the Microsoft Store&amp;WT.rss_ev=a</link>
+	</item>	
+	<item>	
+      <pubDate>Fri, 08 Jul 2016</pubDate>
+      <title>Limited-time offer: Get a 2-month free trial of Hulu</title>
+      <description>July 8–18, 2016, Windows and Xbox users can get an exclusive, 2-month free trial of Hulu. Stream premium originals, current network hits, all-time classics, popular movies, and more! (Offer valid for new subscribers only. See site for terms and conditions.)</description>
+      <link>https://www.microsoft.com/store/apps/9wzdncrfj3l1?OCID=blitz?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=Limited-time offer: Get a 2-month free trial of Hulu&amp;WT.rss_ev=a</link>
+	</item>	
+	<item>	
+      <pubDate>Wed, 06 Jul 2016</pubDate>
+      <title>Special student pricing on PCs, apps, and accessories</title>
+      <description>Get things done and have fun at school this year with our collection of great deals for students on PCs, apps, accessories, and more. Compare devices and shop best-in-class technology. Learn more.</description>
+      <link>https://www.microsoft.com/en-us/windows/back-to-school?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=Special student pricing on PCs, apps, and accessories&amp;WT.rss_ev=a</link>
+	</item>
+	<item>	
+      <pubDate>Wed, 06 Jul 2016</pubDate>
+      <title>Bing’s Back to School Deck Out Your Dorm sweepstakes</title>
+      <description>Join Bing Rewards and enter for a chance to win a dorm makeover with the latest tech from Microsoft, including a Surface Book, Xbox One, and more—valued at over $4,000. This school year, study and play with the best of ’em. Enter to win. (No purchase necessary. Ends 8/15/2016. See site for full terms and conditions.)</description>
+      <link>http://www.bing.com/explore/rewards-backtoschool?FORM=MI130R&amp;PROGRAMNAME=BRBTS2016?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=Bing’s Back to School Deck Out Your Dorm sweepstakes&amp;WT.rss_ev=a</link>
+	</item>
+	
+	<item>	
+      <pubDate>Thu, 30 Jun 2016</pubDate>
+      <title>Microsoft technology helps make NASCAR races safer, fairer, and more competitive</title>
+      <description>A year ago, the governing body of US stock car racing improved the efficiency of its inspection and infraction history systems by moving them from paper to digital. Now it's rolling out a race management solution to help teams be more competitive with data analytics tools in the Microsoft Cloud. Learn more.</description>
+      <link>https://blogs.microsoft.com/transform/2016/06/27/nascar-levels-playing-field-bringing-latest-technology-american-tradition/#sm.00094o5h512udejrql42rd6k8ad2e?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=Microsoft technology helps make NASCAR races safer, fairer, and more competitive&amp;WT.rss_ev=a</link>
+	</item>
+	
+	<item>	
+      <pubDate>Wed, 29 Jun 2016</pubDate>
+      <title>Students save $300 with purchase of a Surface and an Xbox</title>
+      <description>For a limited time, you can buy a select Surface plus an Xbox One and save $300. Study with the tablet that can replace your laptop and play with an Xbox One, where the best games, movies, music, sports, and live TV come together in one place. Shop now. (Available only while supplies last, see site for full details.)</description>
+      <link>https://www.microsoft.com/surface/en-us/devices/at-school?ocid=BTS_mscom_null_sbook_null_null_surfmark_null?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=Students save $300 with purchase of a Surface and an Xbox&amp;WT.rss_ev=a</link>
+	 </item>
+	
+    <item>	
+      <pubDate>Mon, 27 Jun 2016</pubDate>
+      <title>Xbox is striving to make gaming fun and inclusive for everyone</title>
+      <description>The Xbox team is embracing "inclusive design" as part of their Gaming for Everyone effort. In this initiative, the team is working together to try to make gaming accessible, equitable, and sustainable for all types of gamers. Learn more about how Xbox is working to enable all types of gamers to play as they want, in the way they want.</description>
+      <link>https://news.microsoft.com/features/designing-gaming-for-everyone/?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=Xbox is striving to make gaming fun and inclusive for everyone&amp;WT.rss_ev=a</link>
+	 </item>
+	 
+	<item>	
+      <pubDate>Mon, 20 Jun 2016</pubDate>
+      <title>Meet the Windows veteran taking the torch for the Windows Insider Program</title>
+      <description>If you’re one of the 1.5 billion people using Windows, you have likely used something Dona Sarkar built. She brings her considerable knowledge and experience to the Windows Insider Program, Microsoft’s global beta program with millions of members who receive and give feedback on early builds of Windows. Learn more about Sarkar and her plans for leading the Windows Insider Program.</description>
+      <link>http://news.microsoft.com/stories/people/dona-sarkar.html?&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=Meet the Windows veteran taking the torch for the Windows Insider Program&amp;WT.rss_ev=a</link>
+	 </item>
+	
+	<item>	
+      <pubDate>Mon, 13 Jun 2016</pubDate>
+      <title>Introducing the new Xbox One S</title>
+      <description>Play the greatest games lineup, including Xbox 360 classics, on a 40% smaller console. Experience richer, more luminous colors in games and video with High Dynamic Range technology. Then stream 4K* video on Netflix and Amazon Video, and watch UHD Blu-ray™ movies in stunning 4K Ultra HD. Includes the newly streamlined Xbox Wireless Controller. Pre-order now. (*4K streaming with select apps, see Xbox.com. HDR functionality available with supported games and TVs. Some apps require app provider-specific subscriptions and/or other requirements.  Xbox One Backward Compatibility feature works with select Xbox 360 games, see http://www.xbox.com/backcompat. Xbox Live and broadband internet required for initial download of game to console.)</description>
+       <link>https://www.microsoftstore.com/store/msusa/en_US/pdp/productID.3366999700?WT.mc_id=mscom_e32016&amp;WT.rss_f=At Home RSS&amp;WT.rss_a=Introducing the new Xbox One S&amp;WT.rss_ev=a</link>
+	 </item>
+    
+    <item>
+      <pubDate>Mon, 13 Jun 2016</pubDate>
+      <title>Find great Father's Day gift ideas at the Microsoft Store</title>
+      <description>Celebrate Father's Day with great deals on gifts your dad will love, including gadgets, accessories, movies, music, and more.</description>
+      <link>https://www.microsoftstore.com/store/msusa/en_US/cat/Fathers-Day-Gift-Guide/categoryID.69978400?icid=gm_fday_MSCOMlink&amp;WT.rss_f=At Work RSS&amp;WT.rss_a=Find great Father's Day gift ideas at the Microsoft Store&amp;WT.rss_ev=a</link>
+    </item>
+    
+	 <item>	
+      <pubDate>Mon, 06 Jun 2016</pubDate>
+      <title>Sign up for Office 365 and get your first month free</title>
+      <description>From home to business and desktop to web, Office 365 helps you get work done anywhere. Collaborate on documents, share notebooks, and stay in touch with Office mobile apps across Windows, Android, and Apple devices. Sign up now and get your first month for free.</description>
+       <link>https://products.office.com/EN-US/whats-new-office?WT.mc_id=oan_mscom_prog_devices_collaboratecopy?WT.rss_f=At Home RSS&amp;WT.rss_a=Sign up for Office 365 and get your first month free&amp;WT.rss_ev=a</link>
+	 </item>
+    
+	<item>	
+      <pubDate>Thu, 02 Jun 2016</pubDate>
+      <title>See how SAM Labs makes it possible for anyone to build for the Internet of Things</title>
+      <description>By 2020, the Internet of Things will power over 50 billion devices that we count on for daily life. Joachim Horn, founder of London-based startup SAM Labs, aims to empower budding inventors of all ages and skill levels to create just about anything they can imagine. With help from Microsoft Accelerator in London, he is developing and distributing construction kits that remove all entry barriers to designing devices for the Internet of Things. Learn more about it.</description>
+       <link>http://news.microsoft.com/stories/people/joachim-horn.html?WT.rss_f=At Home RSS&amp;WT.rss_a=See how SAM Labs makes it possible for anyone to build for the Internet of Things&amp;WT.rss_ev=a</link>
+	 </item>
+	
+	<item>	
+      <pubDate>Tue, 24 May 2016</pubDate>
+      <title>Bringing affordable Internet to rural Kenya using TV white space technology</title>
+      <description>More than half the world’s population does not have access to the Internet. We believe that everyone deserves the social and economic opportunities afforded by connectivity. In partnership with Mawingu, Microsoft is providing high-speed, affordable Internet over vast distances using abandoned TV waves, or “white spaces.” In rural Kenya, entrepreneur Benson Maina uses this technology to operate an Internet café. Today, people walk from miles around to get online there, where they can study, communicate, and grow their businesses. Learn more about the impact that access to the Internet is having on rural Kenya.</description>
+       <link>http://www.microsoft.com/en-us/empowering/index.html?story=whitespaces&amp;ocid=wspace_o_mscom_Null_Null_usa_null_null?WT.rss_f=At Home RSS&amp;WT.rss_a=Bringing affordable Internet to rural Kenya using TV white space technology&amp;WT.rss_ev=a</link>
+	 </item>
+	 
+	<item>	
+      <pubDate>Thu, 19 May 2016</pubDate>
+      <title>Marcelo and Microsoft team up to help 40,000 kids develop tech skills</title>
+      <description>Real Madrid star Marcelo Vieira remembers how his grandfather's support helped his soccer game when he was a boy in Brazil. Now he's giving back, teaming up with the Real Madrid Foundation and Microsoft YouthSpark to bring young people in 72 countries technology education that can create opportunities for a better future.  Learn more.</description>
+       <link>https://www.microsoft.com/en-us/realmadrid/marcelo?WT.rss_f=At Home RSS&amp;WT.rss_a=Marcelo and Microsoft team up to help 40,000 kids develop tech skills&amp;WT.rss_ev=a</link>
+	 </item>
+	
+	<item>	
+      <pubDate>Mon, 16 May 2016</pubDate>
+      <title>For a limited time, save up to $150 on select Surface Pro 4 models</title>
+      <description>Save up to $150 on select Surface Pro 4 devices. This is such a great deal, only 3 per customer are allowed. Buy and save today, discounts available only while supplies last. (See site for full terms and conditions.)</description>
+       <link>https://www.microsoft.com/surface/en-us/devices/surface-pro-4?ocid=SP4off_mscom_null_null_null_null_surfmark_null?WT.rss_f=At Home RSS&amp;WT.rss_a=For a limited time, save up to $150 on select Surface Pro 4 models&amp;WT.rss_ev=a</link>
+	 </item>
+
+	<item>	
+      <pubDate>Mon, 16 May 2016</pubDate>
+      <title>Upgrade to Windows 10 for free before offer expires</title>
+      <description>Now until July 29, 2016, you can upgrade your Windows 7 or Windows 8 systems to Windows 10 for free. Or, for the best experience, you can check out our great selection of powerful, stylish, and affordable Windows 10 devices. See site for details. (Terms and conditions apply.)</description>
+       <link>http://www.microsoft.com/EN-US/windows/windows-10-upgrade?WT.rss_f=At Home RSS&amp;WT.rss_a=Upgrade to Windows 10 for free before offer expires&amp;WT.rss_ev=a</link>
+	 </item>
+	 
+	 	<item>	
+      <pubDate>Mon, 09 May 2016</pubDate>
+      <title>Celebrate your graduate. Find the perfect gift at the Microsoft store.</title>
+      <description>No matter whether your graduate is heading off to college or the corporate world, setting off on a grand traveling adventure, or kicking off a summer of fun and gaming, we’ve got the technology everyone needs to start the journey fully prepared. Shop now.</description>
+       <link>http://www.microsoftstore.com/store/msusa/en_US/home?WT.rss_f=At Home RSS&amp;WT.rss_a=Celebrate your graduate. Find the perfect gift at the Microsoft store.&amp;WT.rss_ev=a</link>
+	 </item>
+
+	<item>	
+      <pubDate>Mon, 09 May 2016</pubDate>
+      <title>Save the date to watch the Xbox E3 2016 Briefing live on June 13</title>
+      <description>Don't miss the chance to hear what's happening at the biggest event in the industry. Tune in at 9:30 AM PDT on June 13 to see the newest games, technology, and features coming to Xbox One and Windows 10. Watch live on Xbox.com, your Xbox console, or Spike TV. Add the event to your calendar now.</description>
+       <link>http://www.xbox.com/en-US/e3?WT.rss_f=At Home RSS&amp;WT.rss_a=Save the date to watch the Xbox E3 2016 Briefing live on June 13&amp;WT.rss_ev=a</link>
+	 </item>
+	
+	<item>	
+      <pubDate>Thu, 05 May 2016</pubDate>
+      <title>Don’t miss this great Xbox One limited-time offer</title>
+      <description>Buy an Xbox One console and jump ahead with the best games and multiplayer. For a limited time, you’ll get a $50 Microsoft store gift code and a select game of your choice for free. Shop now. (See site for details. Terms apply.)</description>
+       <link>http://www.microsoftstore.com/store/msusa/en_US/list/Xbox-One-consoles/categoryID.64724200/pgm.96189600?WT.mc_id=MScom_mayXBOoffer?WT.rss_f=At Home RSS&amp;WT.rss_a=Don’t miss this great Xbox One limited-time offer&amp;WT.rss_ev=a</link>
+	 </item>
+	 
+	 <item>	
+      <pubDate>Thu, 05 May 2016</pubDate>
+      <title>Welcome to the invisible revolution. Breakthrough technology is all around you.</title>
+      <description>The next generation of groundbreaking, life-changing technologies goes far beyond keyboards, screens, cell phones, cameras, watches, and hard drives. From artificial intelligence to machine learning to the cloud, you may not see it—but it’s all around you. The invisible revolution won’t add hours to our days, but it does promise to help us get better at using the time we have, with tools that chip away at the drudgery that bogs down our days. Learn more about it.</description>
+       <link>http://news.microsoft.com/stories/invisible-revolution/?WT.rss_f=At Home RSS&amp;WT.rss_a=Welcome to the invisible revolution. Breakthrough technology is all around you.&amp;WT.rss_ev=a</link>
+	 </item>
+	 
+	<item>	
+      <pubDate>Wed, 04 May 2016</pubDate>
+      <title>May the 4th be with you. Shop Star Wars products at the Microsoft store.</title>
+      <description>Awaken the force with Star Wars-themed games, PCs, Xbox One consoles, and more at our May 4th sale. Shop now.</description>
+       <link>http://www.microsoftstore.com/store/msusa/en_US/cat/Star-Wars-at-Microsoft-Store/categoryID.70778600?WT.rss_f=At Home RSS&amp;WT.rss_a=May the 4th be with you. Shop Star Wars products at the Microsoft store.&amp;WT.rss_ev=a</link>
+	 </item>
+	 
+	<item>	
+      <pubDate>Wed, 27 Apr 2016</pubDate>
+      <title>Windows 10 PCs do more. Just like you.</title>
+      <description>See how a new Windows 10 PC can make a difference and change the way Doyin Richards, a father of two young girls and an established daddy blogger, works. Learn more about the faster, more secure, and user-friendly way to do.</description>
+       <link>https://www.microsoft.com/en-us/windows/10?ocid=ocwin10h2_o_mscom_null_null_usa_null_null?WT.rss_f=At Home RSS&amp;WT.rss_a=Windows 10 PCs do more. Just like you.&amp;WT.rss_ev=a</link>
+	 </item>
+	
+	<item>	
+      <pubDate>Mon, 25 Apr 2016</pubDate>
+      <title>Surface Pro 4 does more. Just like you.</title>
+      <description>A forensic artist for over 30 years, Stephen Mancusi is best known for his intricate composite sketches. The Surface Pen lets him draw with ease and precision. Watch Stephen discover how he can do more with Surface Pro 4.</description>
+       <link>https://www.microsoft.com/surface/en-us/devices/surface-pro-4?ocid=ocwin10h2_o_mscom_null_null_usa_null_null#inaction-panel1?WT.rss_f=At Home RSS&amp;WT.rss_a=Surface Pro 4 does more. Just like you.&amp;WT.rss_ev=a</link>
+	 </item>	
+	
+	<item>	
+      <pubDate>Thu, 21 Apr 2016</pubDate>
+      <title>Our technology helped turn a World War II air raid shelter into an underground farm</title>
+      <description>You can look at the world and see problems, or you can see opportunity. Growing Underground saw an underground bomb shelter in London and reimagined it as a water-efficient, energy-efficient, and pesticide-free farm. Microsoft technology was an integral part of all elements of the project, from business plan development to ventilation, water plan, and even the growing cycle. Learn how these entrepreneurs are supplying food for the city, from within the city.</description>
+       <link>http://news.microsoft.com/features/growing-underground-world-food-day?WT.rss_f=At Home RSS&amp;WT.rss_a=Our technology helped turn a World War II air raid shelter into an underground farm&amp;WT.rss_ev=a</link>
+	 </item>
+	
+	<item>	
+      <pubDate>Thu, 21 Apr 2016</pubDate>
+      <title>We believe technology can empower people and organizations to achieve a more sustainable future</title>
+      <description>At Microsoft, we’re working with our partners around the world to discover and implement innovative ways to transition to a more sustainable, low-carbon future. Learn more.</description>
+       <link>https://www.microsoft.com/about/csr/environment/?WT.rss_f=At Home RSS&amp;WT.rss_a=We believe technology can empower people and organizations to achieve a more sustainable future&amp;WT.rss_ev=a</link>
+	 </item>
+	
+	<item>	
+      <pubDate>Sat, 16 Apr 2016</pubDate>
+      <title>Limited-time offer: Trade up and save on a new Dell PC</title>
+      <description>Buy a select Dell laptop and receive a trade-up reward of up to $400 when you trade in your old PC. Terms and conditions apply, available for a limited time. See site for details.</description>
+       <link>http://www.microsoftstore.com/store/msusa/en_US/cat/categoryID.70661300/pgm1208524000?WT.mc_id=Dell_Trade_Up_April2016?WT.rss_f=At Home RSS&amp;WT.rss_a=Limited-time offer: Trade up and save on a new Dell PC&amp;WT.rss_ev=a</link>
+	 </item>
+	<item>	
+      <pubDate>Thu, 14 Apr 2016</pubDate>
+      <title>Sign up and learn about our newest education tools, coming in summer 2016</title>
+      <description>Learn about student-focused, teacher-inspired tools for 2016/2017 aimed at keeping students engaged, saving teachers time, and making IT management easy. Sign up today.</description>
+       <link>https://www.microsoft.com/en-us/education?WT.rss_f=At Home RSS&amp;WT.rss_a=Sign up and learn about our newest education tools, coming in summer 2016&amp;WT.rss_ev=a</link>
+	 </item>
+      <item>	
+      <pubDate>Wed, 13 Apr 2016</pubDate>
+      <title>See how Microsoft’s inspired new workspaces boost creativity and collaboration</title>
+      <description>Designed with the idea that there is no one best way to get work done, Microsoft has designed new workspaces that enable employees, and even executives, to work together in large, shared rooms called “neighborhoods.” Learn more about workspaces designed to help employees be more productive.</description>
+       <link>http://news.microsoft.com/stories/b16/?WT.rss_f=At Home RSS&amp;WT.rss_a=See how Microsoft’s inspired new workspaces boost creativity and collaboration&amp;WT.rss_ev=a</link>
+	 </item>
+	<item>	
+      <pubDate>Tue, 05 Apr 2016</pubDate>
+      <title>Get the Cirrus White Xbox One console and controller when you buy the Quantum Break Bundle</title>
+      <description>Experience gripping time-amplified action and uniquely dynamic storytelling with the Xbox One Quantum Break bundle. Includes a Cirrus White console and live-action companion series that is affected by your gameplay decisions. Buy now.</description>
+       <link>http://www.microsoftstore.com/store/msusa/en_US/pdp/productID.333355600?WT.rss_f=At Home RSS&amp;WT.rss_a=Get the Cirrus White Xbox One console and controller when you buy the Quantum Break Bundle&amp;WT.rss_ev=a</link>
+	 </item>
+	<item>	
+      <pubDate>Mon, 04 Apr 2016</pubDate>
+      <title>Maximize your business mileage deductions and reimbursements with MileIQ by Microsoft</title>
+      <description>Meet MileIQ, the app that automatically tracks vehicle mileage on your phone. It keeps your mileage logs at your fingertips and calculates trip values, too. Download and install today.</description>
+       <link>https://www.mileiq.com/microsoft/?utm_source=microsoftcom&amp;utm_medium=msft&amp;utm_campaign=aprilhppromosecondary?WT.rss_f=At Home RSS&amp;WT.rss_a=Maximize your business mileage deductions and reimbursements with MileIQ by Microsoft&amp;WT.rss_ev=a</link>
+	 </item>
+	 
+	</channel>
+	</rss>
