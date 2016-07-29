@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<?xml-stylesheet type='text/xsl' href='RssPretty.xslt' version='1.0'?>
 <rss version="2.0">
   <link rel="alternate" type="application/rss+xml" title="RSS FEED TITLE" href="RSS FEED URL" />
   <channel>
